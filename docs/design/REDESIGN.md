@@ -132,7 +132,7 @@ for those unfamiliar with the Closure compiler.  Plugins and extensions to Shaka
 
 [Static members][] in Shaka 1 make it impossible in some cases to host multiple
 Player instances with different settings.  Player instances should be completely
-independent in Shaka 1.
+independent in Shaka 2.
 
 [Static members]: https://github.com/google/shaka-player/issues/126
 
